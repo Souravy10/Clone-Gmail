@@ -1,0 +1,29 @@
+{
+  "name": "gmail-clone",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "firebase": "^10.12.0",
+    "framer-motion": "^12.23.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-google-button": "^0.8.0",
+    "react-icons": "^5.5.0",
+    "react-redux": "^8.1.2",
+    "react-router-dom": "^6.23.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.2.0"
+  }
+}
